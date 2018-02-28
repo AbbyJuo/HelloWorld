@@ -1,3 +1,3 @@
 function test(a)
-println("this is a test.")
+prinln("this is a test.") #println is spelt wrong
 end
